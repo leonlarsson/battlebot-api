@@ -1,0 +1,7 @@
+name = "battlebot-api"
+main = "./index.ts"
+compatibility_date = "2023-07-22"
+
+kv_namespaces = [
+  { binding = "COOLDOWNS", id = "a158d00faa5e4e4dba5a8c3fe27d84e7", preview_id = "a158d00faa5e4e4dba5a8c3fe27d84e7" }
+]
